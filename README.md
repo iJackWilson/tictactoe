@@ -1,4 +1,4 @@
-## tictactoe
+# tictactoe
 
 A simple react implementation of tic-tac-toe.
 
