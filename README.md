@@ -1,6 +1,6 @@
-# tictactoe
+## tictactoe
 
-A simple react application which implements tic-tac-toe.
+A simple react implementation of tic-tac-toe.
 
 ## Available Scripts
 
