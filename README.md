@@ -1,3 +1,7 @@
+# tictactoe
+
+A simple react application which implements tic-tac-toe.
+
 ## Available Scripts
 
 In the project directory, you can run:
